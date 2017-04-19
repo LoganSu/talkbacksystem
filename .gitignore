@@ -1,0 +1,7 @@
+browsers*
+firefox-*.tar.bz2
+node_modules
+.DS_Store
+validation-report.json
+validation-status.json
+/target/
